@@ -2,3 +2,4 @@ gitのファイルの練習をします。
 rennsyuu rennsyuu
 git add
 gitcomiit
+特に追加なし
